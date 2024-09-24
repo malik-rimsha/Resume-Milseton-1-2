@@ -53,7 +53,7 @@ button{
     display: block;
     width: 100%;
     padding: 10px;
-    background-color: blue;
+    background-color: darkblue;
     color:white;
     border-radius: 4px;
     cursor: pointer;
@@ -61,4 +61,12 @@ button{
     font-size: 18px;
     font-family: 'Times New Roman', Times, serif;
     
+}
+
+.profilepicture{
+    max-width: 200px;
+    margin-bottom: 20px;
+    border-radius: 50%;
+    border: 5px solid #2c3e50;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
 }
